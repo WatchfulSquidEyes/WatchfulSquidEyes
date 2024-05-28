@@ -1,3 +1,2 @@
 Hello! I’m @WatchfulSquidEyes
-I'm currently learning C++ am looking to start Rust.
-I am a college student majoring in Physics and Math, but am also interested in comp-sci/comp-eng
+This is my GitHome, where I do projects that interest me, such as Programming in C & Python, as well as keeping my OS Ricing files stored 
